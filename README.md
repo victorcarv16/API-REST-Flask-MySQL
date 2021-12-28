@@ -15,4 +15,4 @@ Este projeto foi elaborado com a finalidade de construir uma API que realizasse 
 # Mas afinal, como funciona?
 
 1- Abrindo o Postman web e digitando o URL  http://127.0.0.1:5000/bancos/ obtemos como resultado a Listagem de todos os bancos através do método GET
-![Part1 upload  escale](https://github.com/victorcarv16/assets/blob/main/1.PNG)
+![Part1 upload  escale](https://github.com/victorcarv16/assets/blob/main/)
