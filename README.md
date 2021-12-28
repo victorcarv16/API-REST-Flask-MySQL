@@ -1,4 +1,6 @@
 # API-REST-Flask-MySQL
+> Status: Developing⚠️
+> 
 Este projeto foi elaborado com a finalidade de construir uma API que realizasse as seguintes funções: 
 1 - Criar uma tabela no banco de dados MySQL e armazenar a lista de bancos, presente no arquivo em anexo. 
 
@@ -9,4 +11,4 @@ Este projeto foi elaborado com a finalidade de construir uma API que realizasse 
 2.2 - Consultar um banco passando o código de compensação como parâmetro - método GET;
 
 
-#Mas afinal, como funciona?
+# Mas afinal, como funciona?
